@@ -81,6 +81,7 @@
 - Step 7: Send Firebase Push Notification from Firebase Project. Go to Firebase project and click on ***Cloud Messaging*** option in left menu under Grow Option. You can create you first Notification from there. 
 - ***NOTE THAT*** : You need to pass ***click_action*** and ***FLUTTER_NOTIFICATION_CLICK*** in additional option custom data.
 
+![Cloud Messaging Screenshot](https://raw.githubusercontent.com/myvsparth/flutter_push_notification/master/screenshots/1.png)
 
 - Try sending notification while 1. Your App is Open 2. While Your App is in Background and 3. While Your App is Closed. That’s all you are done with Flutter Firebase Push Notification.
 
